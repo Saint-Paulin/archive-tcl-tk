@@ -1,0 +1,8 @@
+global {}
+lappend	(scores)	[list	4 3.1.1.3.4.2.0.2.4. paulin 2012-02-05	]
+lappend	(scores)	[list	4 4.2.0.2.4.3.1.1.3. paulin 2012-02-11	]
+lappend	(scores)	[list	1 1.1.0. paulin 2012-02-11	]
+lappend	(scores)	[list	2 2.0.2.1.1. paulin 2012-02-11	]
+lappend	(scores)	[list	3 3.1.1.3.2.0.2. paulin 2012-02-11	]
+lappend	(scores)	[list	8 7.5.3.1.1.3.5.7.8.6.4.2.0.2.4.6.8. paulin 2012-02-11	]
+lappend	(scores)	[list	5 4.2.0.2.4.5.3.1.1.3.5. paulin 2012-07-23	]
