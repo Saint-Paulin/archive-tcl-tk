@@ -1,0 +1,84 @@
+# #### Vierge
+	# Vierge + Bélier
+	if {"$s1" == "Vierge"} {
+	if {"$s2" == "Bélier"} {
+	incr pourcent 
+	}
+	}
+	
+	# Vierge + Taureau
+	if {"$s1" == "Vierge"} {
+	if {"$s2" == "Taureau"} {
+	incr pourcent 
+	}
+	}
+	
+	# Vierge + Gémeaux
+	if {"$s1" == "Vierge"} {
+	if {"$s2" == "Gémeaux"} {
+	incr pourcent 
+	}
+	}
+	
+	# Vierge + Cancer
+	if {"$s1" == "Vierge"} {
+	if {"$s2" == "Cancer"} {
+	incr pourcent 
+	}
+	}
+	
+	# Vierge + Lion
+	if {"$s1" == "Vierge"} {
+	if {"$s2" == "Lion"} {
+	incr pourcent 
+	}
+	}
+	
+	# Vierge + Vierge
+	if {"$s1" == "Vierge"} {
+	if {"$s2" == "Vierge"} {
+	incr pourcent 
+	}
+	}
+
+	# Vierge + Balence
+	if {"$s1" == "Vierge"} {
+	if {"$s2" == "Balence"} {
+	incr pourcent 
+	}
+	}
+	
+	# Vierge + Scorpion
+	if {"$s1" == "Vierge"} {
+	if {"$s2" == "Scorpion"} {
+	incr pourcent 
+	}
+	}
+	
+	# Vierge + Sagittaire
+	if {"$s1" == "Vierge"} {
+	if {"$s2" == "Sagittaire"} {
+	incr pourcent 
+	}
+	}
+	
+	# Vierge + Capricorne
+	if {"$s1" == "Vierge"} {
+	if {"$s2" == "Capricorne"} {
+	incr pourcent 
+	}
+	}
+	
+	# Vierge + Verseau
+	if {"$s1" == "Vierge"} {
+	if {"$s2" == "Verseau"} {
+	incr pourcent 
+	}
+	}
+	
+	# Vierge + Poissons
+	if {"$s1" == "Vierge"} {
+	if {"$s2" == "Poissons"} {
+	incr pourcent 
+	}
+	}
