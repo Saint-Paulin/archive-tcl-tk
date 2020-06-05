@@ -1,0 +1,4 @@
+button .b -text "hello" 
+# bouton hello 
+
+pack .b
